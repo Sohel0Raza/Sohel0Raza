@@ -4,7 +4,7 @@
 I am passionate about creating professional web applications using my skills and technologies. Additionally, I enjoy designing creative and visually front-end websites. Feel free to ask me any questions or discuss your requirements.
 
 - 🔭 I’m currently working on learning. 
-- 🌱 I’m currently learning Next JS 
+- 🌱 I’m currently learning Mongoose 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: soheldot1239@gmail.com 
